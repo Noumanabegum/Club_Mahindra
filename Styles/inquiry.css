@@ -1,0 +1,9 @@
+
+.btn{
+    border:none;
+    margin:30px;
+    transform: translateX(898%);
+    background-size: 200%;
+    cursor: pointer;
+    background-image: linear-gradient(to left,rgb(0, 67, 252),rgb(0, 255, 85));
+}
