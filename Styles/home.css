@@ -17,8 +17,10 @@ color: rgb(255, 252, 252);
 }
 #div-flex{
     display: flex;
+    
 }
 #div-flex>img{
+
     align-items: flex-start;
     margin: 20px;
     padding: 30px;
